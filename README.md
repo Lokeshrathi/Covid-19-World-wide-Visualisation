@@ -9,8 +9,8 @@
 
 ## Data Visualisation
 - The following graph shows the effect of the Virus around the world
-
 ![](https://github.com/Lokeshrathi/Covid-19-World-wise-Visualisation/blob/master/Images/cor.png)
+![](https://github.com/Lokeshrathi/Covid-19-World-wise-Visualisation/blob/master/Images/World%20_wide%20cases.png)
 
 - The number of cases has exponentially taken a leap in a very less time.*Lockdown wasn't imposed yet*
 - One of the reasons why the **government imposed the Lockdown was this sudden increase in graph**, as the pandemic was spreading through **no social distancing** and people not wearing mask.
